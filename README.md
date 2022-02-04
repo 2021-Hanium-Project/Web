@@ -1,5 +1,5 @@
 # 슬기로운 긱사생활 관리자 전용 Web
-# 기숙사 관리자에게 편리한 여러 기능을 제공하는 웹사이ㅡ
+# 기숙사 관리자에게 편리한 여러 기능을 제공하는 웹사이트
 #### Project nickname : seereal
 #### Project execution period : 2021.03~2021.11
 #### Project Hosting : [한이음](https://www.hanium.or.kr/portal/index.do)
